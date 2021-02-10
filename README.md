@@ -4,7 +4,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-A new Fluuter application generating Blockchain Company name ideas
+A new Flutter application generating Blockchain Company name ideas
 
 ### IDE 
 
@@ -39,7 +39,7 @@ Dart code built and run using IntelliJ Android Studio v4.1.2
 
 <br/>
 
-6. Select your android emulator form the dropdown box and power it on and then click the green play button to autocompile and render to Android
+6. Select your android emulator form the dropdown box and power it on and then click the green play button to auto compile and render to Android
 <br/>
 <br/>
 
@@ -47,13 +47,17 @@ Dart code built and run using IntelliJ Android Studio v4.1.2
 <br/>
 <br/>
 
-7. Additionally you can select `Chrome (web)` from the same dropdown box and render the Dart code as a native Web App if you have preconfigured the neccessary drivers from the official website
+7. Additionally you can select `Chrome (web)` from the same dropdown box and render the Dart code as a native Web App if you have preconfigured the necessary drivers from the official website
     <br/>
 
     ![Chrome](chrome.png)    
     <br/>
     
-8. As a bonus you can also render the same codebase on a iOS device, if you are running Android Studio on a Macintosh with `XCode` and `iOS Simulartor` preconfigured
+8. As a bonus you can also render the same codebase on an iOS device if you are running Android Studio on a Macintosh with `XCode` and `iOS Simulator` preconfigured
+    <br/>
+
+    ![iOS](ios.png)    
+    <br/>
 
 License
 ----
